@@ -2,7 +2,7 @@
 
 **How to run**
 1. Clone this repository and make it **private**
-2. Open on your `localhost` (no build is required), e.g. `http://localhost/angular-font-picker-master/`
+2. Open on your `localhost` (no build is required), e.g. `http://localhost/relayto-angularjs-test-migration-assignment/`
 
 **Task**
 1. Upgrade one of the app's components to Angular 12+
@@ -12,5 +12,5 @@
 5. You can add build pipeline if needed
 
 **Submission**
-1. Give assess to your private repository to `websirnik`
+1. Give access to your private repository to `websirnik` GitHub user
 2. Email your RELAYTO contact about the submission
